@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Buerzhang
-- 👀 I’m interested in 💻📷🎵
-- 🌱 I’m currently learning JavaScript、node.js、Python、docker......
-- 📫 How to reach me QQ515069162
+- 👋 你好，我是Buerzhang
+- 👀 我的兴趣领域在💻📷🎵
+- 🌱 我现在正在学习node.js、Python、docker......
+- 📫 可通过QQ：515069162（wx同步）联系我
